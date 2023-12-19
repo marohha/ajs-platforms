@@ -19,5 +19,14 @@
     "babel-loader": "^9.1.3",
     "webpack": "^5.89.0",
     "webpack-cli": "^5.1.4"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marohha/ajs-platforms.git"
+  },
+  "bugs": {
+    "url": "https://github.com/marohha/ajs-platforms/issues"
+  },
+  "homepage": "https://github.com/marohha/ajs-platforms"
 }
+
